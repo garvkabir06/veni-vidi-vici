@@ -1,11 +1,12 @@
 import time
+
 hour = int(time.strftime("%H"))
 
 if hour < 12:
-    print("goodmorning")
+    print("Goodmorning")
 elif hour < 18:
-    print("good after noon")
+    print("Good Afternoon")
 elif hour < 19:
-    print("good evening")
+    print("Good Evening")
 else:
-    print("good night")
+    print("Good Night")
