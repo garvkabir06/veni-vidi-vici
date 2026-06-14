@@ -20,10 +20,10 @@ d = int(input("enter the number: "))
 size(c,d)
 
 def islesser(a,b):
-   pass                  # i'll come back later to complete this code
+   pass         # i'll come back later to complete this code
 
 while True:
-   
+
     a = int(input("enter the number: "))
     b = int(input("enter the number: "))
 
